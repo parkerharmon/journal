@@ -15,4 +15,4 @@ function Header(){
     );
 }
 
-export default Header /* Tjis line allows you import this component to other components*/
+export default Header /* This line allows you import this component to other components*/
