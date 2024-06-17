@@ -1,3 +1,3 @@
-# journal
+# React Learning
 
-This will become a journaling app
+Includes a lot of random components I've made while learning how to use React.
