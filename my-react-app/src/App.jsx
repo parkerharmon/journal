@@ -6,6 +6,8 @@ import Button from "./Button/Button.jsx"
 import Student from "./Student.jsx"
 import UserGreeting from "./UserGreeting.jsx"
 import List from "./List.jsx"
+import MyArray from "./MyArray.jsx"
+import MyArrayObjects from "./MyArrayObjects.jsx"
 
 function App() {
 
@@ -34,6 +36,8 @@ function App() {
       {vegatables.length > 0 ? <List items={vegatables} category="Vegatables"/> : null}
       <Food/>
       <Footer/>
+      <MyArray/>
+      <MyArrayObjects/>
     </>
   );
 
